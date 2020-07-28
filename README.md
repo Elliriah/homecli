@@ -33,5 +33,3 @@ Possibilité de fermer ou d'ouvrir les Volets en appuyant sur les boutons presen
 * Mode "Grand froid"; Ouvre toutes les climatisations à 30° et Ferme tous les volets.
 * Mode "Egalisation d'Intensité"; Permet d'egaliser l'intensité de toutes les lumières
 * Mode "Nuit", Eteignant toutes les lumières, fermant les volets et eteignant les climatisations.
-
-Ce projet à été realisé dans un temps restreint.
